@@ -1,0 +1,76 @@
+{
+  "songs": [
+    {
+      "bg": "#c9bea28f",
+      "artist": "Ley Soul",
+      "songName": "Intergalactic janet",
+      "files": {
+        "song": "https://github.com/Angelbgx/masssong/raw/main/songs/ley%20soul%20%20intergalactic%20janet.mp3",
+        "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/ley%20soul.PNG?raw=true"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "Anitta & J Balvin",
+      "songName": "Downtown",
+      "files": {
+        "song": "https://github.com/Angelbgx/masssong/raw/main/songs/Downtown.mp3",
+        "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/downtown.jpg?raw=true"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "Cazzu",
+      "songName": "Maldade$",
+      "files": {
+       "song": "https://github.com/Angelbgx/masssong/raw/main/songs/Cazzu%20%20Rip%20Audio%20Oficial%20%20Maldade.mp3",
+       "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/cazzu.PNG?raw=true"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "DrefQuila",
+      "songName": "A Fuego",
+      "files": {
+      "song": "https://github.com/Angelbgx/masssong/raw/main/songs/DrefQuila%20%20A%20Fuego.mp3",
+      "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/drefquila.PNG?raw=true"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "J Balvin",
+      "songName": "Safari",
+      "files": {
+      "song": "https://github.com/Angelbgx/masssong/raw/main/songs/J%20Balvin%20%20Safari%20ft%20Pharrell%20Williams%20BIA%20Sky%20Official%20Video.mp3",
+      "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/safari.jpg?raw=true"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "Bad Bunny",
+      "songName": "Diles",
+      "files": {
+      "song": "https://github.com/Angelbgx/masssong/raw/main/songs/y2mate.com%20-%20Diles%20Remix.mp3",
+      "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/diles.jpg?raw=true"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "J Balvin & Ferruko",
+      "songName": "6a.m",
+      "files": {
+      "song": "https://github.com/Angelbgx/masssong/raw/main/songs/6%20AM%20%20J%20Balvin%20%20%20ft%20Farruko%20Official%20Lyrics%20Video.mp3",
+      "cover": "https://github.com/Angelbgx/masssong/blob/main/songs/6%20am.PNG?raw=true"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    }
+  ]
+}
